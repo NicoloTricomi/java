@@ -19,6 +19,7 @@ public class Biglietto
 
 	public Utente getUtente()
 	{
+		System.out.println("utente ritornato");
 		return utente;
 	}
 	
