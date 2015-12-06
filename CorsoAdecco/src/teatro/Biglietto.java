@@ -13,6 +13,7 @@ public class Biglietto
 
 	public Posto getPosto()
 	{
+		System.out.println("posto ritornato");
 		return posto;
 	}
 
